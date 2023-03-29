@@ -1,12 +1,12 @@
-# So What's the Deal with README?
+# Title.
+
+## DESCRIPTION 
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-![Project Preview](./preview.png)
+this is a description.
 
-[Project DEMO](https://www.loom.com/share/dea7e83e00674febbdfa157eed707947)
-
---- 
+---
 
 ## TABLE OF CONTENTS 
 
@@ -26,39 +26,33 @@
 
 ---
 
-## DESCRIPTION
-
-Week 9 Challenge for Full-Stack Programming bootcamp at the University of Washington in partnership with edX. This program runs in node and prompts users to enter various information to generate a professional README document.
-
----
-
 ## INSTALLATION 
 
-This project runs using node. Follow the necessary installation for these programs. 
-
-Then, in the normal terminal, run the code "npm i" into node to install the necessary packages.
+This is how to install
 
 ---
 
 ## USAGE
 
-To start the command line application, run node index.js in the node terminal. You will then be prompted to enter your project's title, description, installation, usage, contributes, testing and to choose a license. You will then be prompted to enter your github and email. The program takes care of the rest of the work to make a professional readme! The file should be located in the directory you are running the program on, and will be entitled generatedREADME.md.
+This is how to use this project.
 
 ---
 
 ## CONTRIBUTIONS
 
-[Starter Code](https://github.com/coding-boot-camp/potential-enigma)
+N/A
 
 ---
 
 ## TESTING
 
-N/A
+No testing.
 
 ---
 
 ## LICENSE 
+
+--- 
 
 MIT License
       Copyright (c) 2023 tykervella
